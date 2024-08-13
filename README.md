@@ -3,17 +3,12 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm a Software Engineer building my version of Futter applications. 
- "[ForrestKnight][youtube]" to more than 500k subscribers.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -21,15 +16,15 @@ I'm a Software Engineer building my version of Futter applications.
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/dart-icon-2042x2048-775u9j9x.png"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/flutter-icon-2048x2048-ufx4idi8.png" />
-<img align="left" alt="Bloc" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" />
+<img align="left" alt="Bloc" width="30px" style="padding-right:10px;" src="https://plugins.jetbrains.com/files/12129/536052/icon/pluginIcon.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Photshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Premeire pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/firebase-icon-1492x2048-zznoc9pm.png" />
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" />
+<img align="left" alt="Premiere pro" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-9jGgd1gP8LkxM7sMQopRAIPZF3M-qvh2AA&s" />
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" />
 <br />
 
 #
