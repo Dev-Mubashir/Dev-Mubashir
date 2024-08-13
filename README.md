@@ -6,7 +6,7 @@ I'm a Software Engineer building my version of Futter applications.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/app-developer-flutter/">
-         <img alt="My Linkedin Account" title="Let us connect on Linkedin 🌟" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=120d80&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=036ffc"/></a> 
+         <img alt="My Linkedin Account" title="Let us connect on Linkedin 🌟" src="color=120d80&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=036ffc"/></a> 
    </p>
 
 ---
@@ -39,9 +39,9 @@ I'm a Software Engineer building my version of Futter applications.
 [![Reels Application](https://ytcards.demolab.com/?id=IxbR0yTMMY8&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=IxbR0yTMMY8)
 -->
 <!-- END YOUTUBE-CARDS -->
-
+<--
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
+-->
 #
 
 
