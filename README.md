@@ -6,7 +6,7 @@ I'm a Software Engineer building my version of Futter applications.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/app-developer-flutter/">
-         <img alt="My Linkedin Account" title="Let us connect on Linkedin 🌟" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%120d80&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=036ffc"/></a> 
+         <img alt="My Linkedin Account" title="Let us connect on Linkedin 🌟" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=120d80&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=036ffc"/></a> 
    </p>
 
 ---
@@ -15,7 +15,7 @@ I'm a Software Engineer building my version of Futter applications.
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/dart-icon-2042x2048-775u9j9x.png"/>
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" />
-<img align="left" alt="Bloc" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/flutter_bloc.png" />
+<img align="left" alt="Bloc" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/felangel/bloc/master/assets/logos/flutter_bloc.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/firebase-icon-1492x2048-zznoc9pm.png" />
