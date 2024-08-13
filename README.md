@@ -39,7 +39,7 @@ I'm a Software Engineer building my version of Futter applications.
 [![Reels Application](https://ytcards.demolab.com/?id=IxbR0yTMMY8&title=Llama+3.1+is+ACTUALLY+really+good%21+%28and+open+source%29&lang=en&timestamp=1721944083&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "Llama 3.1 is ACTUALLY really good! (and open source)")](https://www.youtube.com/watch?v=IxbR0yTMMY8)
 -->
 <!-- END YOUTUBE-CARDS -->
-<--
+<!--
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 -->
 #
